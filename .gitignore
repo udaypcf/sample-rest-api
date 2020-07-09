@@ -1,0 +1,38 @@
+.gradle
+
+### STS ###
+/sample/.apt_generated
+/sample/.apt_generated_tests
+/sample/.classpath
+/sample/.factorypath
+/sample/.gitignore
+/sample/.gradle
+/sample/.project
+/sample/.settings
+/sample/.springBeans
+/sample/.sts4-cache
+
+
+
+/sample/bin
+/sample/build
+
+
+### STS ###
+
+### IntelliJ IDEA ###
+/sample/.idea
+/sample/*.iws
+/sample/*.iml
+/sample/*.ipr
+/sample/out/
+
+### NetBeans ###
+/sample//nbproject/private/
+/sample//nbbuild/
+/sample//dist/
+/sample//nbdist/
+/sample//.nb-gradle/
+
+### VS Code ###
+/sample/.vscode/
